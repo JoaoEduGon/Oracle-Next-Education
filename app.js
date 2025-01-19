@@ -66,7 +66,9 @@ function reiniciarJogo() {
 }
 
 
-
+/*
+Removendo commit 
+*/
 
 
 
